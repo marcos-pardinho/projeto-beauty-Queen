@@ -132,13 +132,13 @@ a:hover::before{
 }
 
 .profile:nth-child(1){
-    background-image: url(/assets/image/profile-1.jpg);
+    background-image: url(../assets/image/profile-1.jpg);
 }
 .profile:nth-child(2){
-    background-image: url(/assets/image/profile-2.jpg);
+    background-image: url(../assets/image/profile-2.jpg);
 }
 .profile:nth-child(3){
-    background-image: url(/assets/image/profile-3.jpeg);
+    background-image: url(../assets/image/profile-3.jpeg);
 }
 .reviews {
     display: flex;

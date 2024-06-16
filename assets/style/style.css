@@ -132,7 +132,7 @@ a:hover::before{
 }
 
 .profile:nth-child(1){
-    background-image: url(../../image/profile-1.jpg);
+    background-image: url(../image/profile-1.jpg);
 }
 .profile:nth-child(2){
     background-image: url(../image/profile-2.jpg);
